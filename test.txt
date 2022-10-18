@@ -1,4 +1,4 @@
-Bonjour le monde !
+Bonjour tout le monde !
 
 git a été créé par Linus Torvalds en 2005.
 
